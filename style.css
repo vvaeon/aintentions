@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+body {  
+  background-image: url("img/gifff.gif") ;
+  background-size: cover; 
+  height: 100vh;
+}
+h4 {
+  color: #8989b3;
+  text-align: center;
+  font-family: 'Blackletter Shadow';
+  font-size: 20px;
+}
+.container {
+  color: #8989b3;
+  background: rgba(0,0,0,.7);
+  
+}
+h2 {
+   color: #e1e5ef;
+  text-align: center;
+  font-family: 'Blackletter Shadow';
+  font-size: 25px;
+  margin-left: 10%; 
+  margin-right: 15%;
+}
+
+
+
+
+
+
+
+
+
+
+
